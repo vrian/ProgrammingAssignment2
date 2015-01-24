@@ -9,7 +9,7 @@
 #       vector. The structure is the same except for called functions.
 #       Simple yet hard to understand.
 
-## Write a short comment describing this function
+### Write a short comment describing this function
 # The first function, makeCacheMatrix creates a special "vector",
 # which is really a list containing a function to:
 # 1. set the value of the vector
